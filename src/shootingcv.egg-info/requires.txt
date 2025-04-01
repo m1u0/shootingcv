@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+numpy>=1.24.0
+absl-py>=1.0.0
+mmpose>=1.0.0
+mmdet>=3.0.0
+mmengine>=0.8.0

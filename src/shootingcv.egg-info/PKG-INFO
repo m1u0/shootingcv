@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: shootingcv
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python>=4.8.0
+Requires-Dist: ultralytics>=8.0.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: absl-py>=1.0.0
+Requires-Dist: mmpose>=1.0.0
+Requires-Dist: mmdet>=3.0.0
+Requires-Dist: mmengine>=0.8.0

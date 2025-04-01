@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/shootingcv/__init__.py
+src/shootingcv/main.py
+src/shootingcv/singlevideo.py
+src/shootingcv/splitvideo.py
+src/shootingcv.egg-info/PKG-INFO
+src/shootingcv.egg-info/SOURCES.txt
+src/shootingcv.egg-info/dependency_links.txt
+src/shootingcv.egg-info/requires.txt
+src/shootingcv.egg-info/top_level.txt
