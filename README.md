@@ -10,7 +10,7 @@ shootingcv can be used for comparing shooting forms, either with the same player
 ## example
 
 The following was made with shootingcv.
-[](resources/output.gif)
+![sample video](resources/output.gif)
 
 ## limitations / roadmap
 
